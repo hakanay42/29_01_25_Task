@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 20px;
+}
+
+h1 {
+    color: #0077cc;
+}
+
+table {
+    width: 80%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #0077cc;
+    color: white;
+}
+
+td, th {
+    border: 1px solid #333;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #0077cc;
+}
